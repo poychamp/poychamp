@@ -110,7 +110,7 @@
 </style>
 <body>
 <div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
-  <div>
+  <div style="overflow-wrap: break-word;">
     <h1>Champoy's Freelance</h1>
     <h2>Web Development and Programming</h2>
     <h4><?= intval(date('Y')) - 2024 + 7 ?> years’ professional experience</h4>
