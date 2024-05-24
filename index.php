@@ -114,7 +114,7 @@
 
     @media only screen and (max-width: 550px) {
         #content {
-            padding: 0 10px;
+            padding: 10px;
         }
     }
 </style>
