@@ -14,6 +14,10 @@
         box-sizing: border-box;
     }
 
+    html {
+      height: 100%;
+    }
+
     body {
         margin: 0;
         padding: 0;
@@ -113,13 +117,13 @@
         }
     }
 </style>
-<body>
-<div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
-  <div id="content" style="max-width: 100vw;">
-    <h1>Champoy's Freelance</h1>
-    <h2>Web Development and Programming</h2>
-    <h4><?= intval(date('Y')) - 2024 + 7 ?> years’ professional experience</h4>
-    <pre>Lot 3E Johnritz Subdivision,
+<body style="height: 100%;">
+  <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
+    <div id="content" style="max-width: 100vw;">
+      <h1>Champoy's Freelance</h1>
+      <h2>Web Development and Programming</h2>
+      <h4><?= intval(date('Y')) - 2024 + 7 ?> years’ professional experience</h4>
+      <pre>Lot 3E Johnritz Subdivision,
 Buena Oro, Macasandig,
 Cagayan de Oro,
 Misamis Oriental, Mindanao,
@@ -128,8 +132,8 @@ Philippines 9000
 <a href="mailto:me@poychamp.com">me@poychamp.com</a>
 <a href="https://github.com/poychamp/">https://github.com/poychamp</a>
 <a href="https://www.linkedin.com/in/leoncio-cesar-polestico-b005a586/">https://www.linkedin.com/in/leoncio-cesar-polestico-b005a586/</a>
-      </pre>
+    </pre>
+    </div>
   </div>
-</div>
 </body>
 </html>
