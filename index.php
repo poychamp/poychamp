@@ -114,13 +114,14 @@
 
     @media only screen and (max-width: 550px) {
         #content {
-            padding: 10px;
+            padding-left: 10px;
+            padding-right: 10px;
         }
     }
 </style>
 <body style="height: 100%;">
   <div style="display: flex; align-items: center; justify-content: center; height: 100%;">
-    <div id="content" style="max-width: 100vw; margin: auto; padding: 10px 0">
+    <div id="content" style="max-width: 100vw; margin: auto; padding-top: 10px; padding-bottom: 10px;">
       <h1>Champoy's Freelance</h1>
       <h2>Web Development and Programming</h2>
       <h4><?= intval(date('Y')) - 2024 + 7 ?> years’ professional experience</h4>
