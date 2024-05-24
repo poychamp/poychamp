@@ -98,19 +98,24 @@
         margin: 0 0 1rem 0;
     }
 
-    @media only screen and (max-width: 550px) {
-        body {
-            padding: 0 10px;
-        }
+    p {
+      margin-bottom: 1rem;
     }
 
-    p {
-        margin-bottom: 1rem;
+    a, pre {
+      white-space: pre-wrap;
+      word-wrap: break-word;
+    }
+
+    @media only screen and (max-width: 550px) {
+        #content {
+            padding: 0 10px;
+        }
     }
 </style>
 <body>
 <div style="display: flex; align-items: center; justify-content: center; height: 100vh;">
-  <div style="overflow-wrap: break-word;">
+  <div id="content" style="max-width: 100vw;">
     <h1>Champoy's Freelance</h1>
     <h2>Web Development and Programming</h2>
     <h4><?= intval(date('Y')) - 2024 + 7 ?> years’ professional experience</h4>
