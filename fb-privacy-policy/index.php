@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
-    <title>Champoy's Freelance</title>
-    <meta name="description" content="Professional Web Development and Programming by Leoncio Cesar Polestico">
+    <title>Champoy's Freelance - FB App Privacy Policy</title>
+    <meta name="description" content="FB App Privacy Policy">
     <meta>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 </head>
@@ -112,11 +112,9 @@
         word-wrap: break-word;
     }
 
-    @media only screen and (max-width: 550px) {
-        #content {
-            padding-left: 10px;
-            padding-right: 10px;
-        }
+    #content {
+        padding-left: 10px;
+        padding-right: 10px;
     }
 </style>
 <body style="height: 100%;">
