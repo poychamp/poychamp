@@ -3,6 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+  <title>Champoy's Freelance</title>
+  <meta name="description" content="Professional Web Development and Programming by Leoncio Cesar Polestico">
+  <meta>
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 </head>
 <style>
