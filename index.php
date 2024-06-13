@@ -4,8 +4,13 @@
   <meta charset="UTF-8">
   <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
   <title>Champoy's Freelance</title>
+  <?php if (strpos($_SERVER['HTTP_HOST'], "www.") === false): ?>
+    <meta name="robots" content="noindex">
+  <?php else: ?>
+    <link rel="canonical" href="https://www.poychamp.com/" />.
+  <?php endif; ?>
   <meta name="description" content="Professional Web Development and Programming by Leoncio Cesar Polestico">
-  <link rel="canonical" href="https://www.poychamp.com/" />.
+
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 </head>
 <style>
