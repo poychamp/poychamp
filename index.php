@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
   <title>Champoy's Freelance</title>
-  <?php if (strpos($_SERVER['HTTP_HOST'], "www.") !== false): ?>
+  <?php if (strpos($_SERVER['HTTP_HOST'], "www.") === false): ?>
     <link rel="canonical" href="https://www.poychamp.com/" />.
   <?php endif; ?>
   <meta name="description" content="Professional Web Development and Programming by Leoncio Cesar Polestico">
