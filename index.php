@@ -12,18 +12,10 @@
   <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
   <script type="application/ld+json">
     {
-      "@context": "https://schema.org/",
-      "@type": "Organization",
+      "@context": "https://schema.org",
+      "@type": "MediaObject",
       "name": "Champoy's Freelance",
-      "url": "https://www.poychamp.com",
-      "logo": "https://www.poychamp.com/android-chrome-192x192.png",
-      "sameAs": [
-        "https://github.com/poychamp",
-        "https://www.facebook.com/champoyradoo",
-        "https://x.com/champoyradoo",
-        "https://www.instagram.com/turniptables",
-        "https://ph.linkedin.com/in/leoncio-cesar-polestico-b005a586"
-      ],
+      "description": "Professional Web Development and Programming by Leoncio Cesar Polestico",
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
