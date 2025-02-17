@@ -150,7 +150,7 @@ Cagayan de Oro,
 Misamis Oriental, Mindanao,
 Philippines 9000
 <a href="tel:+639971285404">(+63) 997 128 5404</a>
-<a href="mailto:me@poychamp.com">me@poychamp.com</a>
+<a href="mailto:champoyradoo@gmail.com">me@poychamp.com</a>
 <a href="https://github.com/poychamp/">https://github.com/poychamp</a>
 <a href="https://www.linkedin.com/in/leoncio-cesar-polestico-b005a586/">https://www.linkedin.com/in/leoncio-cesar-polestico-b005a586/</a>
     </pre>
