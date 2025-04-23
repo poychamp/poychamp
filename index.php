@@ -17,7 +17,7 @@
       "mainEntity": {
         "@type": "Person",
         "name": "Leoncio Cesar Polestico",
-        "description": "Professional Web Development and Programming by Leoncio Cesar Polestico",
+        "description": "Champoy's Web Development based in Cagayan de Oro, Philippines",
         "sameAs": [
           "https://www.facebook.com/champoyradoo/",
           "https://github.com/poychamp/",
