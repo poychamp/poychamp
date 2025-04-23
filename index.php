@@ -13,13 +13,19 @@
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
-      "@type": "MediaObject",
-      "name": "Champoy's Freelance",
-      "description": "Professional Web Development and Programming by Leoncio Cesar Polestico",
-      "aggregateRating": {
-        "@type": "AggregateRating",
-        "ratingValue": "5.0",
-        "ratingCount": "1"
+      "@type": "ProfilePage",
+      "mainEntity": {
+        "@type": "Person",
+        "name": "Leoncio Cesar Polestico",
+        "description": "Professional Web Development and Programming by Leoncio Cesar Polestico",
+        "sameAs": [
+          "https://www.facebook.com/champoyradoo/",
+          "https://github.com/poychamp/",
+          "https://www.linkedin.com/in/leoncio-cesar-polestico-b005a586/",
+          "https://twitch.tv/turniptables/",
+          "https://www.instagram.com/turniptables/",
+          "https://x.com/champoyradoo/"
+        ]
       }
     }
   </script>
