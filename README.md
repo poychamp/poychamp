@@ -1,2 +1,2 @@
-# poychamp.com
-Champoy's personal website
+# Leoncio Cesar L. Polestico (Champoy)
+Cagayan de Oro, Philippines
