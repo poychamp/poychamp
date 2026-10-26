@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="color-scheme" content="dark">
+  <meta name="theme-color" content="#0A0A0A">
+  <title>Champoy's Freelance</title>
+  <meta name="description" content="Web development and programming by Leoncio Cesar Polestico, Cagayan de Oro, Philippines">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body class="font-sans antialiased selection:bg-gold-500 selection:text-black">
+  <div id="app">Vue did not mount. Is `npm run dev` running?</div>
+
+  {{ initial_state|json_script:"initial-state" }}
+
+  <script type="module" src="{{ vite_dev_server_url }}/@vite/client"></script>
+  <script type="module" src="{{ vite_dev_server_url }}/assets/pages/home/main.js"></script>
+</body>
+</html>
